@@ -18,12 +18,17 @@ namespace DAM2_M06_UF4_DEMO_code_first.Model
         public int CursoId { get; set; }
 
         public string Nombre { get; set; }
+
         public string Ciudad { get; set; }
 
         // public int ProfesorId { get; set; }
 
         // Entity Frmework Core
 
+        public Profesor Profesor { get; set; }
+
         public ICollection<Alumno> Alumnos { get; set; }
+
+
     }
 }
