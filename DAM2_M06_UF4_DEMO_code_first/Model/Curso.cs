@@ -21,7 +21,7 @@ namespace DAM2_M06_UF4_DEMO_code_first.Model
 
         public string Ciudad { get; set; }
 
-        // public int ProfesorId { get; set; }
+        // public int ProfesorId { get; set; } lo hace solo, no hace falta cuando haces el migrate
 
         // Entity Frmework Core
 
