@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAM2_M06_UF4_DEMO_code_first", "DAM2_M06_UF4_DEMO_code_first\DAM2_M06_UF4_DEMO_code_first.csproj", "{8CD5D381-C395-4DA9-9BCB-327DFEB1112E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CD5D381-C395-4DA9-9BCB-327DFEB1112E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD5D381-C395-4DA9-9BCB-327DFEB1112E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD5D381-C395-4DA9-9BCB-327DFEB1112E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD5D381-C395-4DA9-9BCB-327DFEB1112E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAB51F14-F081-4A79-8D37-5C4025A3477C}
+	EndGlobalSection
+EndGlobal
