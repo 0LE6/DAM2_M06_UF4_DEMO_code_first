@@ -25,6 +25,6 @@ namespace DAM2_M06_UF4_DEMO_code_first.Model
 
         public virtual DbSet<Curso> Cursos { get; set; }
 
-        public virtual DbSet<Profesor> Profesor { get; set; }
+        public virtual DbSet<Profesor> Profesores { get; set; }
     }
 }
