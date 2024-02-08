@@ -5,3 +5,12 @@
 
 ## para crear la db en el phpmyadmin
 ![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/bd8ec0c4-5082-4da7-acd9-daa5cf72ec8d)
+
+## añadimos notaFinal a nuestro alumno
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/b6f9ebc8-140a-4189-9cff-095474f1bbc1)
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/a83a4aff-7daa-443a-8d9f-19dd21788169)
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/39759bf8-ffcc-4390-a1ec-aaa3920cad3b)
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/d35b25c6-67b1-46c8-aa30-7bf437869533)
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/ccd6b4c0-8613-41e0-a194-c2433da7b30f)
+
+
