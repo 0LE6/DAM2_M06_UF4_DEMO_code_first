@@ -14,7 +14,7 @@ namespace DAM2_M06_UF4_DEMO_code_first.Model
         public string Nombre { get; set; }
         public DateTime DataNacimiento { get; set; }
         public double NotaFinal { get; set; }
-        //public Curso Curso { get; set; }
+        public Curso Curso { get; set; }
 
     }
 }
