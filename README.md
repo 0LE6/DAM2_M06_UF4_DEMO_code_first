@@ -13,4 +13,12 @@
 ![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/d35b25c6-67b1-46c8-aa30-7bf437869533)
 ![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/ccd6b4c0-8613-41e0-a194-c2433da7b30f)
 
+## añadimos el curso como tabla
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/5e753353-d5a7-4992-83a1-e09608f9b5c0)
+
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/a88cd548-d36e-49f7-88c1-164cf1c67b96)
+
+## añadido profesor
+
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/9f997110-db72-48ae-8c3e-1299d1c1cc9c)
 
