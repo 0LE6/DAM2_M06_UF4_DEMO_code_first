@@ -10,9 +10,9 @@ namespace DAM2_M06_UF4_DEMO_code_first.Model
     public class Alumno
     {
         [Key]
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public DateTime DataNaixament { get; set; }
+        public int AlumnoId { get; set; }
+        public string Nombre { get; set; }
+        public DateTime DataNacimiento { get; set; }
         //public Curso Curso { get; set; }
 
     }
