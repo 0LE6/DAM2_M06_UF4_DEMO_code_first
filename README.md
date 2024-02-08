@@ -20,5 +20,7 @@
 
 ## añadido profesor
 
-![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/9f997110-db72-48ae-8c3e-1299d1c1cc9c)
+![image](https://github.com/0LE6/DAM2_M06_UF4_DEMO_code_first/assets/135649528/488366c9-6c60-4b11-8558-b6d3140d94f2)
+
+
 
